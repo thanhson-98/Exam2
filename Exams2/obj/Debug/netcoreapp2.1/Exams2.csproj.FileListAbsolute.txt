@@ -1,0 +1,11 @@
+C:\Users\VTA\Desktop\xxx\Exams2\bin\Debug\netcoreapp2.1\Exams2.deps.json
+C:\Users\VTA\Desktop\xxx\Exams2\bin\Debug\netcoreapp2.1\Exams2.runtimeconfig.json
+C:\Users\VTA\Desktop\xxx\Exams2\bin\Debug\netcoreapp2.1\Exams2.runtimeconfig.dev.json
+C:\Users\VTA\Desktop\xxx\Exams2\bin\Debug\netcoreapp2.1\Exams2.dll
+C:\Users\VTA\Desktop\xxx\Exams2\bin\Debug\netcoreapp2.1\Exams2.pdb
+C:\Users\VTA\Desktop\xxx\Exams2\obj\Debug\netcoreapp2.1\Exams2.csprojAssemblyReference.cache
+C:\Users\VTA\Desktop\xxx\Exams2\obj\Debug\netcoreapp2.1\Exams2.csproj.CoreCompileInputs.cache
+C:\Users\VTA\Desktop\xxx\Exams2\obj\Debug\netcoreapp2.1\Exams2.AssemblyInfoInputs.cache
+C:\Users\VTA\Desktop\xxx\Exams2\obj\Debug\netcoreapp2.1\Exams2.AssemblyInfo.cs
+C:\Users\VTA\Desktop\xxx\Exams2\obj\Debug\netcoreapp2.1\Exams2.dll
+C:\Users\VTA\Desktop\xxx\Exams2\obj\Debug\netcoreapp2.1\Exams2.pdb
